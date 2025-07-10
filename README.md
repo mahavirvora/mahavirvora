@@ -1,19 +1,47 @@
-<h1 align="center">Hi 👋, I'm Mahavir Vora</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 👋 Hi there, I'm Mahavir
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahavirvora" alt="mahavirvora" /> </p>
+Welcome to my GitHub profile! I am an Engineering Manager based in India, passionate about building robust, scalable, and innovative software solutions.
 
-- 🔭 I’m currently working on [NFM Sales](https://www.nfm.com/)
+---
 
-- 💬 Ask me about **angular, typescript, html, css, javascript, git branches management**
+## 💼 About Me
 
-- 📫 How to reach me **mahavir.vora@encora.com**
+- 🧑‍💻 **Role:** Engineering Manager in IT
+- 💡 **Expertise:** Angular, .NET Development, Cloud Solutions, Software Architecture, and Project Leadership
+- 🧠 **Interests:** Staying current with emerging technologies, contributing to open-source projects, and mentoring developers
+- ♟️ **Hobbies:** Chess & Coding
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mahavirvora&show_icons=true" alt="mahavirvora" /> </p>
+---
 
-<p align="center">
-<a href="https://twitter.com/moxu13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="moxu13" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/mahavir-vora" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mahavir-vora" height="20" width="20" /></a>
-<a href="https://fb.com/mjv13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mjv13" height="20" width="20" /></a>
-<a href="https://instagram.com/mahavir.vora" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mahavir.vora" height="20" width="20" /></a>
-</p>
+## 🛠️ Tech Stack & Skills
+
+- **Languages:** TypeScript, JavaScript, C#, SQL
+- **Frameworks:** Angular, .NET Framework, .NET Core
+- **Tools:** Visual Studio, Git, Azure DevOps
+- **Other:** Agile/Scrum, CI/CD, Software Design Patterns
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahavirvora&show_icons=true&theme=default)
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/mahavir-vora/)
+- [Email](mailto:voramahavir@gmail.com)
+- [Personal Website](https://mahavirvora.github.io)
+
+---
+
+## 🔭 Current Focus
+
+- Exploring **AI integrations** in enterprise applications
+- Migrating legacy systems to modern architectures
+- Contributing to **open-source projects** and sharing knowledge with the community
+
+---
+
+⭐️ *Thank you for visiting my profile. Feel free to explore my repositories and connect!*
